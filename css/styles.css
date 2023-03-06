@@ -71,11 +71,3 @@ footer {
   text-align: center;
   padding: 30px;
 }
-
-.zoom {
-  transition: transform 0.2s;
-}
-
-.zoom:hover {
-  transform: scale(1.1);
-}
